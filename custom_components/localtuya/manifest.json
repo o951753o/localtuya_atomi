@@ -1,10 +1,10 @@
 {
-  "domain": "localtuya",
-  "name": "Local Tuya",
+  "domain": "localtuya_atomi",
+  "name": "Local Tuya Atomi",
   "codeowners": [],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/xZetsubou/hass-localtuya/",
+  "documentation": "https://github.com/o951753o/localtuya_atomi/",
   "integration_type": "hub",
   "iot_class": "local_push",
   "issue_tracker": "https://github.com/xZetsubou/hass-localtuya/issues",
