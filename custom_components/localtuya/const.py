@@ -1,7 +1,7 @@
 """Constants for localtuya integration."""
 from homeassistant.const import EntityCategory, Platform
 
-DOMAIN = "localtuya"
+DOMAIN = "localtuya_atomi"
 
 DATA_DISCOVERY = "discovery"
 
